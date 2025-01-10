@@ -10,22 +10,22 @@ This guide will help you build foundational knowledge quickly, but always rememb
 
 ## Table of Contents
 
-1.  [Understanding Cloud Computing](#understanding-cloud-computing)
-2.  [Understanding AWS Cloud](#understanding-aws-cloud)
-3.  [AWS EC2 (Elastic Compute Cloud)](#aws-ec2-elastic-compute-cloud)
-4.  [AWS Lambda](#aws-lambda)
-5.  [AWS ECS (Elastic Container Service)](#aws-ecs-elastic-container-service)
-6.  [AWS EKS (Elastic Kubernetes Service)](#aws-eks-elastic-kubernetes-service)
-7.  [AWS S3 (Simple Storage Service)](#aws-s3-simple-storage-service)
-8.  [AWS RDS (Relational Database Service)](#aws-rds-relational-database-service)
-9.  [AWS DynamoDB](#aws-dynamodb)
-10. [AWS VPC (Virtual Private Cloud)](#aws-vpc-virtual-private-cloud)
-11. [AWS Route 53](#aws-route-53)
-12. [AWS SQS (Simple Queue Service)](#aws-sqs-simple-queue-service)
-13. [AWS SNS (Simple Notification Service)](#aws-sns-simple-notification-service)
-14. [AWS API Gateway](#aws-api-gateway)
-15. [AWS IAM (Identity and Access Management)](#aws-iam-identity-and-access-management)
-16. [AWS CloudWatch](#aws-cloudwatch)
+1.  [Understanding Cloud Computing](#1-understanding-cloud-computing)
+2.  [Understanding AWS Cloud](#2-understanding-aws-cloud)
+3.  [AWS EC2 (Elastic Compute Cloud)](#3-aws-ec2-elastic-compute-cloud)
+4.  [AWS Lambda](4-#aws-lambda)
+5.  [AWS ECS (Elastic Container Service)](#5-aws-ecs-elastic-container-service)
+6.  [AWS EKS (Elastic Kubernetes Service)](#6-aws-eks-elastic-kubernetes-service)
+7.  [AWS S3 (Simple Storage Service)](#7-aws-s3-simple-storage-service)
+8.  [AWS RDS (Relational Database Service)](#8-aws-rds-relational-database-service)
+9.  [AWS DynamoDB](#9-aws-dynamodb)
+10. [AWS VPC (Virtual Private Cloud)](#10-aws-vpc-virtual-private-cloud)
+11. [AWS Route 53](#11-aws-route-53)
+12. [AWS SQS (Simple Queue Service)](#12-aws-sqs-simple-queue-service)
+13. [AWS SNS (Simple Notification Service)](#13-aws-sns-simple-notification-service)
+14. [AWS API Gateway](#14-aws-api-gateway)
+15. [AWS IAM (Identity and Access Management)](#15-aws-iam-identity-and-access-management)
+16. [AWS CloudWatch](#16-aws-cloudwatch)
 
 ## 1. Understanding Cloud Computing
 
